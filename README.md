@@ -1,4 +1,4 @@
-#Just Another Mandelbrot Fractal
+# Just Another Mandelbrot Fractal
 Probably the number of implementations of Mandelbrot fractals in different languages ​​has long exceeded several million.
 But who cares? ;)  
 A fractal is a beautiful thing, and beauty seems to be supposed to save the world, therefore many fractals are for the better.  
